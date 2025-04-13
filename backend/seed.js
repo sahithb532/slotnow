@@ -53,8 +53,8 @@ const departments = [
 
 // Admin user data
 const adminUser = {
-    email: 'tejaswi',
-    password: 'bannu',
+    email: 'admin',
+    password: 'admin123',
     role: 'admin'
 };
 
